@@ -1,0 +1,156 @@
+pmid,P_age,P_sex,P_condition,P_eligibility,P_samplesize,I_Size,C_size,I_ drug,I_drugdosage,I_surgical,I_educational,I_psychological,I_physical,I_other,I_control,O_mortality,O_adverseeffect,O_lifeimpact,O_physiological,O_resource_use
+41578585,"27 to 93 years
+ (Mean age: 47.5 years)","males and  females
+","Upper digestive tract malignant tumors (esophageal and gastric cancers)
+
+rointestinal
+ malignant
+ tumors, including 
+esophageal
+ and gastric cancers","Patients undergoing endoscopic evaluation in 4 tertiary hospitals
+ upper GI malignant tumors identified July 2022-July 2023",2359,1184,1175,,,,Standardized endoscopy training for physicians,,,,standardized endoscopic imaging procedure,routine endoscopic procedure,,,"Delivery of care: improved quality/standardization of endoscopic screening pathway;
+Overall early detection 21.36% vs 12.17%; early esophageal cancer 14.86% vs 7.93%,
+ P=.019; early gastric cancer 25.78% vs 15.23%, P=.032",
+41589575,18-75 years,Male and Female ,Resected stage Ib–IIIa non-small cell lung cancer (NSCLC),Postoperative NSCLC patients randomized across 7 centers,334,167,167,"Intervention drug: Traditional Chinese medicine 
+(TCM) herbal granules combined with chemotherapy;
+TCM Granules: Matched to 3 basic
+ syndromes; taken twice daily until the 
+Completion of chemotherapy  Chemotherapy",,Surgical resection before adjuvant treatment,,,,,Adjuvant chemotherapy (NP/NC regimen) plus a matched placebo ,"Overall survival assessed; median OS 
+Not reached in both groups; 
+5-year OS 76.15% vs 69.81%, P=.23","Chemotherapy-related symptoms (pain, vomiting, diarrhea, fatigue)
+ were significantly lower in the TCM group  Reported incidence of
+ Aes: 0.57% (TCM group) vs. 4.02% (Control group), $P=.037$",QoL noted from original NALLC trial,,
+41591537,30-75 years,males and  females,Advanced squamous non-small cell lung cancer (sqNSCLC),"Advanced sqNSCLC, treatment-naive; LAG-3 expression assessed by IHC for subgroup analysis",153,102,51,"IBI110 (anti-LAG-3 antibody) and Sintilimab (anti-PD-1
+ Antibody IBI110 200 mg or 600 mg + sintilimab 200 mg
+ + chemotherapy",,,,,,,"Standard-of-care (SOC) — Sintilimab 200 mg plus chemotherapy 
+(paclitaxel and carboplatin)","OS assessed
+  no significant OS difference overall","
+Grade $\ge 3$ TRAEs: 56.86% (200 mg group) vs. 29.41% 
+(600 mg and SOC groups) 
+ Common events: Anemia, decreased white blood cell count, 
+And decreased neutrophil 
+Count",,"Objective Response Rate (ORR)  Progression-Free Survival (PFS)  Duration of Response (DOR); 
+ORR: 73.91% (200 mg) vs. 61.70% (600 mg) vs. 77.55% (SOC)  Median PFS: 8.38 months
+ (200 mg) vs.  7.16 months (SOC)  DOR (in LAG-3 $\ge 2\%$ subgroup): 13.73 months 
+(200 mg) vs. 6.51 months  (SOC), $P=0.037$",
+41542812,"18+ (Mean age: 43.4 years, SD: 15.2)",Male and female,General adult population from eight EU member states,"General adult population from eight EU member states; cancer prevention/risk-awareness study, 
+Not a patient disease cohort",10027,8383,1644,,,,,,"ECAC5 educational/risk communication messages: 10 formats varying by cancer risk 
+information present/absent, preventive-action message length (short/long/absent), and format 
+(text-only/text with images)",Cancer-prevention communication intervention,"Group 1 received ""no message"" ",,,Increased awareness and recall of avoidable cancer risks,Engagement time (Reading time increased by ~4% for prevention messages and ~7% for images),
+39615400,Mean age 74.4 years, eligible age >=65,male,"Mixed solid tumors (mostly metastatic cancer)
+Hospitalised older adults with cancer (?65 yrs, able to ambulate)",58,28,30,30,,,,,"Individualized multicomponent
+ Exercise training twice daily for 5 days; 
+Multicomponent exercise program during 
+Hospitalization",,Standard hospital care,,,"Improved functional status (SPPB), reduced fatigue, Improved knee  Extension strength,  Physical performance","SPPB between-group difference 1.92 (95% CI 0.80-3.07)  knee extension strength 
+7.72 (95% CI 1.83-13.8)  fatigue -26.5 (95% CI -38.6 to -13.9)",
+39608979,?65 years,male,"Previously untreated advanced non-squamous NSCLC without
+ EGFR/ALK 
+Alterations",Eligible patients randomized in CameL phase 3 trial  first-line setting,412,205,207,"Camrelizumab + carboplatin + pemetrexed
+Camrelizumab 200 mg + carboplatin AUC 5 +
+ pemetrexed 500 mg/m2 every 3 weeks for 4-6 cycles",,,,,,Compression therapy (3-level pressure) + combined therapy,"Carboplatin + pemetrexed, then pemetrexed maintenance; crossover
+ Permitted after progression","OS primary long-term result: HR 0.74,  adjusted HR 0.62
+ 5-year OS 31.2% vs 19.3%", grade >=3 TRAEs 71.2% vs 49.3% in table,Improved sleep quality and reduced neuropathy symptoms,,
+39608305, >=70,male,Metastatic colorectal cancer (mCRC),"Patients aged >=70 with mCRC previously failed oxaliplatin-fluoropyrimidine
+ randomized after/for second-line FOLFIRI-aflibercept strategy",170,85,85,"5-FU/LV-aflibercept maintenance after 
+Irinotecan 150–180 mg/m2
+ 5-FU 2000–2400 mg/m2
+FOLFIRI-aflibercept induction
+ aflibercept 4 mg/kg",,,,,,,FOLFIRI + aflibercept until progression,OS secondary endpoint assessed,"All patients had >=1 AE
+ during maintenance 72.9% arm A and 76.5% arm B experienced Aes
+Reduced severe asthenia and SAEs in maintenance arm",,"Progression-free survival, response, safety
+PFS: 6.1 vs 5.5 months",
+39604957,18–66 years,Female ,Triple-negative breast cancer (TNBC) ,"Breast cancer patients recruited from two referral centers
+ completed CAM and QOL survey",180,72,108,"Vinorelbine
+25 mg/m² IV on days 1 and 8 of a 21-day cycle",,,,,,Radiotherapy after chemotherapy & CAM,No adjuvant chemotherapy (standard follow-up + radiotherapy),3-year overall survival (OS):  90.0% (intervention) vs 61.4% (control),,Quality of life assessed by Arabic FACT-B,"Distant disease-free survival (DDFS) Recurrence-free survival (RFS) Overall survival (OS)
+3-year DDFS:
+90.0% vs 42.4% (p = 0.022)
+3-year RFS:
+90.0% vs 42.4% (p = 0.022)
+3-year OS:
+90.0% vs 61.4% (p = 0.149, not significant",
+39602807,20-80 years,Male and female,colon cancer,"Histologically confirmed colon cancer Clinincalstage T3–T4, N0–2, M0 age 20- 8- years",853,427,426,,,,"No-touch isolation technique for colon
+ Cancer resection",,,Adjuvant chemotherapy (capecitabine in stage III patients),"
+Conventional surgical technique (compared with No-touch technique)","6-year OS 86.6% no-touch vs 89.4% conventional
+ HR 1.276 (95% CI 0.902-1.807)",,,"Disease-free survival, relapse-free survival, liver relapse-free survival
+6-year DFS 69.4% no-touch vs 70.3% conventional; HR 1.030 (95% CI 0.813-1.304), 
+one-sided P=0.60; 6-year RFS 75.0% vs 78.9%, HR 1.209",
+39599746,28–64 years,Female,Breast cancer ,"Newly diagnosed breast cancer patients, no distant metastasis, scheduled for 
+Chemotherapy, no major chronic diseases, not already on omega-3 or vitamin D",88,,,"Omega-3 fatty acids and Vitamin D
+Omega-3: 600 mg/day (2 × 300 mg)",,,,,,Nutritional supplementation,"Usual treatment (no supplementation, no placebo)",,"Mild adverse effects: nausea, abdominal discomfort (?3 groups), 
+Dry mouth (Vit D group)","VitD group had significant improvement in PG-SGA risk scores
+ (p<0.01), body weight/BMI (p<0.05), albumin, energy and
+ protein intake (p<0.05)","? Body weight
+? BMI
+? Blood albumin
+? PG-SGA score (better nutritional status)",
+39592738,Median 56 (IQR 47–63),Male and female,Locally advanced/metastatic NSCLC with chronic cough,"?18 yrs, ECOG 0–2, cough ?2 weeks, CrCl ?60",166,83,83,"Pregabalin
+Up to 300 mg/day",,,,,,Cancer-directed therapy allowed,Placebo,, Grade ?3 ~42% vs 41.3%,"QoL (EORTC QLQ-C30, LC13) no difference","VAS, MCLCS
+VAS change: -41.91 vs -48.20
+ P=0.877",
+39591551,Median: 63–64 years (range: ~22–93 years),Female,"Advanced or recurrent endometrial cance
+R (Stage III–IV or recurrent EC)","?18 years, histologically confirmed EC, measurable/non-measurable disease,
+ No prior chemotherapy OR relapse ?6 months after prior platinum therapy",842,420,422,"Lenvatinib + Pembrolizumab
+Lenvatinib: 20 mg orally daily
+ Pembrolizumab: 200 mg IV every 3 weeks",,,,,,,"Paclitaxel (175 mg/m²) + Carboplatin (AUC 6 mg/mL/min), 
+every 3 weeks",Median OS: 30.9 vs 29.4 months,"Grade ?3 AEs: 79% (intervention) vs 67% (control)
+ treatment-related deaths: 2% vs <1%","
+Quality of life (EORTC QLQ-C30, QLQ-EN24): generally similar
+ between groups; some improvement in neuropathy, alopecia,
+ dyspnea","Progression-Free Survival (PFS), Overall Survival (OS), Objective Response Rate (ORR)
+PFS: 9.6 vs 10.2 months (HR 0.99)
+Duration of Response (DOR), Disease Control Rate, subgroup benefits (e.g., dMMR patients)",
+39590137,63.98 years (Range: 52–81),Male and female,Stages III and IV laryngeal squamous cell carcinoma,"Patients suitable for total laryngectomy with selective neck dissection
+ mentally and cognitively capable of following multi-step instructions",92,46,46,,,"Total laryngectomy with selective neck 
+Dissection","Weekly swallowing therapy sessions 
+to encourage adherence and proper 
+Technique",,"Five targeted swallowing exercises: Effortful Swallow, Tongue Pull Back, 
+Chin Tuck Against Resistance (CTAR), Head Lift (Shaker), and Resistive 
+Jaw-Opening (RJO)",,"No preventive exercises; referred for swallowing treatment
+Only as needed after cancer treatment concluded",,pharyngo-cutaneous fistula ,,"p=0.64 (FOIS), PSS-H&N Eating in Public (p=1), PSS-H&N Normalcy of Diet(p=0.33)
+P=0.25",
+39589370,Median 68 (range 38-90) for SLND, Median 69 (range 37-92) for ELND, Male and Female,"Localized muscle-invasive bladder cancer (MIBC)
+Patients with clinical stage T2-4a",,592,,Neoadjuvant chemotherapy Standard of care for cisplatin-based or carboplatin-based regimens,,"Removal of external/internal iliac and obturator
+ nodes",,,,,,7 (2.4%) in SLND vs. 19 (6.5%) in ELND,"Grade 3-5 adverse events occurred in 132 (44%) of SLND 
+patients vs. 157 (54%) of ELND patients. Common events
+ included anemia, UTI, sepsis, and ileus",,Recurrence rates (9% local recurrence in SLND vs. 12.7% in ELND),
+39587053,Median 65 years (range 26–85),Male and female,Unresectable RAS wild-type metastatic colorectal cancer,"Adults, ECOG PS 0–1, measurable lesions per RECIST 1.1",359,180,179,"CETUXIMAB 250 mg/m2, Irinotecan(150 mg/m2),
+ Oxaliplatin(85 mg/m2)",,35–39% underwent secondary surgical resection,,,,,Bevacizumab,, Rash acneiform (13% vs 0% in Grade 3-4),"Neutropenia (56% vs 55%)
+ Hypertension (18% vs 34%)","R0 Resection rate was 26.4% vs 21.0%
+ Early Tumor Shrinkage (ETS) was 79.9% vs 74.7%",
+39585879,29 to 65 years,Female,Newly diagnosed Breast Cancer (within 3 months) undergoing chemotherapy,Aged 18–70; smartphone/internet access; English proficiency; cognitively capable,30,15,15,Standard chemotherapy,,,"Weekly asynchronous BC education (30 mins/week) 
+On diet, exercise, and side effects","Coping skills
+ training  (weeks 3, 5, 6)
+and weekly 
+ real-time 
+Discussion  Forums","
+
+Guidance on exercise 
+and locally available
+ Nutritious diets","Nurse-led consultations (15–20 min phone calls) in weeks 1, 3, and 5",Standard medical care plus 15-minute routine health talks during clinic visits,,"Information provided on managing physical side effects like nausea
+ and vomiting Consent: 86.7%; Completion: 93.3%; Age p-value: 0.43","Improved knowledge, sense of community, and hope; corrected misconceptions",,"Feasibility assessed through consent, attrition, and completion rates;
+the completion rate was 93.3%"
+39585696,"Mean 59.6 years (SD 6.8)
+ range 50–75 years",female,Active patients at average risk for colorectal cancer,"Aged 50–75, visit in 18 months, not current on screening, no history of IBD or CRC",4002,2001,2001,,,Follow-up colonoscopy for abnormal results,"Mailed FIT outreach, reminder letters, 
+telephone navigation after abnormal 
+FIT; centralized mailed FIT kits + 
+2 reminder letters + telephone 
+Navigation",,,Follow-up colonoscopy for abnormal results,"
+ standard mailed instructions and educational inserts",,,FIT positivity: 8.7% (Intervention) vs. 13.4% (Control),"CRC screening completion at 6 months: 30.0% vs. 9.7%; Difference: 20.29%
+ (95% CI, 17.85–22.73); $P < .001$
+Advanced colorectal neoplasia detected: 1.4% (intervention) vs 0.7% (control)",colonoscopy completion within 6 months after positive FIT results
+39576946,"Median: 62 years (Arm A), 66 years (Arm B); Range: 29–84 years","Male,  Female",Unresectable RAS/BRAF wild-type metastatic colorectal cancer (mCRC),"Age >18 years, ECOG ?2, histologically confirmed mCRC, measurable disease (RECIST 1.1), no prior systemic chemo for metastatic disease, RAS/BRAF wild-type, adequate organ function",137,69,68,"Panitumumab + FOLFIRI (fluorouracil, leucovorin, irinotecan)
+Panitumumab: 6 mg/kg every 2 weeks; Irinotecan: 180 mg/m²; Leucovorin: 200 mg/m²; Fluorouracil: 400 mg/m² bolus + 2400 mg/m² infusion over 48h",,,,,,Intermittent treatment strategy (treatment-free intervals) vs continuous therapy, Continuous FOLFIRI + Panitumumab until progression,"Median overall survival: 36.3 months (Arm A), 35.1 months (Arm B)","Grade 3–4 AEs: ~57%
+ skin toxicity higher in continuous arm (30.3% vs 17.9%)","QoL assessed using EORTC QLQ-C30
+ intermittent arm improved tolerability and time off treatment","Tumor response rate: 68.1% (Arm A), 61.2% (Arm B); Disease control: >90% Median PFS
+ (treatment): 11.2 months (Arm A), 17.5 months (Arm B); 12-month  PFS: 45.7% vs 58.5%
+ Reduced toxicity, improved compliance, longer treatment-free intervals (~4–8 months), 
+Similar survival between arms",
+39570590, 75 years of age or younger,Male and female,colorectal cancer,"patients who underwent surgical resection with curative intent for stage II or stage III colorectal adenocarcinoma (with or without adjuvant treatment), 
+75 years of age or younger; provision of written informed consent for participation, and a colon and rectum free of neoplasia verified by perioperative barium enema or a colonoscopy
+ Within 3 months after the initial surgery",2555,,,,,"High-frequency follow-up testing
+computed tomography (CT) scans and serum
+ carcinoembryonic antigen (CEA) screening after
+curative surgery ",,,,,low-frequency follow-up testing,"10-year colorectal cancer–specific mortality rate in the high-frequency
+ group was 15.6% (191 of 1227; 95% CI, 13.6%-17.7%) compared 
+with 16.0% (196 of 1229; 95% CI, 14.0%-18.1%) in the
+ low-frequency group (risk difference, 0.4% [95% CI, ?2.5% to 3.3%])",,,,
